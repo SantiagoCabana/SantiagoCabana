@@ -54,7 +54,6 @@ I'm a Full Stack Developer focused on building real-world systems with clean arc
 <table>
 <tr>
 <td width="50%">
-
 ### ⚙️ Automation System
 Workflow automation platform using n8n, Node.js and APIs.
 
@@ -62,7 +61,6 @@ Workflow automation platform using n8n, Node.js and APIs.
 
 </td>
 <td width="50%">
-
 ### 🌐 Web Platform
 Full-stack production app with frontend, backend and authentication.
 
@@ -73,7 +71,6 @@ Full-stack production app with frontend, backend and authentication.
 
 <tr>
 <td width="50%">
-
 ### 🔍 Scraping Tool
 Automated data extraction system using Python.
 
@@ -81,7 +78,6 @@ Automated data extraction system using Python.
 
 </td>
 <td width="50%">
-
 ### 📊 Analytics Setup
 Self-hosted analytics and monitoring for web projects.
 
