@@ -53,36 +53,47 @@ I'm a Full Stack Developer focused on building real-world systems with clean arc
 
 <table>
 <tr>
-<td width="50%">
-### ⚙️ Automation System
-Workflow automation platform using n8n, Node.js and APIs.
-
-**Tech:** n8n · Node.js · REST APIs · Automation
-
+<td width="50%" align="center">
+<h3>⚙️ Automation System</h3>
+<p>
+Workflow automation platform using <strong>n8n</strong>, Node.js and APIs.
+</p>
+<p>
+<strong>Tech:</strong><br/>
+n8n · Node.js · REST APIs · Automation
+</p>
 </td>
-<td width="50%">
-### 🌐 Web Platform
+<td width="50%" align="center">
+<h3>🌐 Web Platform</h3>
+<p>
 Full-stack production app with frontend, backend and authentication.
-
-**Tech:** React · Node.js · JWT · Docker
-
+</p>
+<p>
+<strong>Tech:</strong><br/>
+React · Node.js · JWT · Docker
+</p>
 </td>
 </tr>
-
 <tr>
-<td width="50%">
-### 🔍 Scraping Tool
+<td width="50%" align="center">
+<h3>🔍 Scraping Tool</h3>
+<p>
 Automated data extraction system using Python.
-
-**Tech:** Python · Automation · Data Extraction
-
+</p>
+<p>
+<strong>Tech:</strong><br/>
+Python · Automation · Data Extraction
+</p>
 </td>
-<td width="50%">
-### 📊 Analytics Setup
+<td width="50%" align="center">
+<h3>📊 Analytics Setup</h3>
+<p>
 Self-hosted analytics and monitoring for web projects.
-
-**Tech:** Umami · Docker · Deployment
-
+</p>
+<p>
+<strong>Tech:</strong><br/>
+Umami · Docker · Deployment
+</p>
 </td>
 </tr>
 </table>
