@@ -1,56 +1,79 @@
-# Hi, I'm SANTIAGO CABANA! 👋
+# Hi, I'm Santiago Cabana 👋  
+### (aka FutureTripod)
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+🎓 M.Tech Computer Science @ IIT Kharagpur  
+💻 Full Stack Developer | Technical Writer  
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=FutureTripod&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+I build scalable web applications and write technical content that simplifies complex concepts for developers.
+
+---
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- 🎓 M.Tech in Computer Science — IIT Kharagpur  
+- ✍️ Technical Writer @ freeCodeCamp  
+- 📰 Contributor @ Hackernoon  
+- 📈 20K+ reads on my blog: https://theenthusiast.dev  
+- 🌱 Currently focused on full-stack development and system design  
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+---
 
+## 🧠 Tech Stack
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+**Frontend**
+- React  
+- Tailwind CSS  
+- HTML, CSS, JavaScript  
 
-## 🌱 Currently Exploring
+**Backend**
+- Django  
+- REST APIs  
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+**Database**
+- PostgreSQL  
 
- ## 🏆 Achievements
+**Other**
+- WebAssembly (WASM)  
+- Git & GitHub  
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+---
 
+## 🧪 Projects
 
-## 📬 Get in Touch
+### 🔗 (Add your best projects here)
+- **Project Name** — short description (what problem it solves + tech used)  
+- **Web App / SaaS** — highlight impact or users if possible  
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+---
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+## ✍️ Writing & Articles
 
+- 📘 JavaScript Engine and Runtime Explained  
+  https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/
 
+- 🌐 More articles:  
+  https://theenthusiast.dev  
 
-<!--
+---
 
-Here are some ideas to get you started:
+## 🏆 Achievements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌟 Completed Hacktoberfest 2023  
+- 📢 Published technical content read by 20K+ developers  
+
+---
+
+## 📬 Connect With Me
+
+- 🐦 Twitter: https://twitter.com/introvertedbot  
+- 🌐 Blog: https://theenthusiast.dev  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FutureTripod&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+---
+
+⭐ *Always learning. Always building. Always sharing.*
