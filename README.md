@@ -1,79 +1,88 @@
 # Hi, I'm Santiago Cabana 👋  
 ### (aka FutureTripod)
 
-🎓 M.Tech Computer Science @ IIT Kharagpur  
-💻 Full Stack Developer | Technical Writer  
+💻 Full Stack Developer with 2+ years of experience  
+⚙️ Focused on building scalable systems, automation, and real-world web solutions  
 
-I build scalable web applications and write technical content that simplifies complex concepts for developers.
+I design and develop complete web systems — from backend architecture to frontend interfaces — with a strong focus on performance, automation, and clean implementations.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 M.Tech in Computer Science — IIT Kharagpur  
-- ✍️ Technical Writer @ freeCodeCamp  
-- 📰 Contributor @ Hackernoon  
-- 📈 20K+ reads on my blog: https://theenthusiast.dev  
-- 🌱 Currently focused on full-stack development and system design  
+- 💼 2+ years of experience in web development  
+- 🧠 Strong focus on backend systems and automation  
+- ⚡ Experience building full production-ready systems  
+- 🔍 Passionate about web scraping, workflows, and APIs  
+- 🌐 Experience working with modern web stacks and open-source tools  
 
 ---
 
 ## 🧠 Tech Stack
 
-**Frontend**
+### 🖥️ Frontend
 - React  
-- Tailwind CSS  
-- HTML, CSS, JavaScript  
+- HTML, CSS, JavaScript, TypeScript  
+- SPA development (static & dynamic)
 
-**Backend**
-- Django  
+### ⚙️ Backend
+- Node.js  
+- Python  
 - REST APIs  
+- JWT authentication (cookies-based)
 
-**Database**
-- PostgreSQL  
-
-**Other**
-- WebAssembly (WASM)  
+### 🔥 DevOps & Tools
+- Docker  
+- Dokploy  
+- Umami (analytics)  
 - Git & GitHub  
+
+### 🔗 Automation & Systems
+- n8n  
+- Node-RED  
+- Workflow automation  
+- System integrations  
+
+### 🧪 Other Skills
+- Web Scraping  
+- System design & architecture  
+- Open source tools usage  
 
 ---
 
 ## 🧪 Projects
 
-### 🔗 (Add your best projects here)
-- **Project Name** — short description (what problem it solves + tech used)  
-- **Web App / SaaS** — highlight impact or users if possible  
+### 🔗 (Add your real projects here)
+- **Automation System** — built with n8n + Node.js for workflow automation  
+- **Web Platform** — full-stack app with React + Node + PostgreSQL  
+- **Scraping Tool** — automated data extraction using Python  
 
 ---
 
-## ✍️ Writing & Articles
+## 🏆 Experience Highlights
 
-- 📘 JavaScript Engine and Runtime Explained  
-  https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/
-
-- 🌐 More articles:  
-  https://theenthusiast.dev  
-
----
-
-## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023  
-- 📢 Published technical content read by 20K+ developers  
+- ⚙️ Designed and developed complete systems from scratch  
+- 🔐 Implemented secure authentication using JWT + cookies  
+- 🐳 Containerized applications using Docker  
+- 🔄 Built automation pipelines using n8n / Node-RED  
+- 📊 Integrated analytics using Umami  
 
 ---
 
-## 📬 Connect With Me
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FutureTripod&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FutureTripod&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📬 Contact
 
 - 🐦 Twitter: https://twitter.com/introvertedbot  
 - 🌐 Blog: https://theenthusiast.dev  
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FutureTripod&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
----
-
-⭐ *Always learning. Always building. Always sharing.*
+⭐ *I build systems, not just apps.*
