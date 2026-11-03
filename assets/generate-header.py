@@ -9,7 +9,7 @@ from PIL import Image, ImageDraw, ImageFont
 WIDTH, HEIGHT = 900, 105
 FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 font = ImageFont.truetype(FONT, 50)
-label = "SANTIAGO CABANA"
+label = "NOMBRE_COMPLETO_AQUI"
 letter_spacing = 3
 letter_masks = []
 cursor = (WIDTH - sum(font.getlength(char) for char in label)
