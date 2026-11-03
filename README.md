@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/header.svg" width="900" alt="Santiago Cabana" />
+  <img src="./assets/header.svg" width="900" alt="Santiago Cabana" />
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
   <tr>
     <th width="33%" align="center">Backend</th>
     <th width="34%" align="center">Frontend</th>
-    <th width="33%" align="center">Infra y automatización</th>
+    <th width="33%" align="center">Infraestructura y automatización</th>
   </tr>
   <tr>
     <td align="center" valign="top">
